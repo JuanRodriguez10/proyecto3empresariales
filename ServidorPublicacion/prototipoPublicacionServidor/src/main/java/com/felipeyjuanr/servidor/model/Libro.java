@@ -19,7 +19,6 @@ public class Libro
 {
     //Atributos
     private String titulo;
-    private ArrayList<Autor> autores;
     private int cantidadPaginas;
     private LocalDateTime fechaCreacion;
     private double precio;
